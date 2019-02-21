@@ -5,11 +5,7 @@
 			{
 				"appID": "YHZZX2D7NW.com.saq.mobile.dev",
 				"paths": [ "*"]
-			},
-            {
-                "appID": "ZYH5WDPX24.com.saq.mobile.qa",
-                "paths": [ "*" ]
-            }
+			}
 		]
 	}
 }
