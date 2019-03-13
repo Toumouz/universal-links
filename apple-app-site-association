@@ -1,11 +1,15 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "VYAXXUJJWF.com.saqmobile.saq2",
+                "paths": ["*", "/"]
+            },
 			{
-				"appID": "4Q596JWQC5.com.saq.mobile.dev",
-				"paths": [ "*"]
-			}
-		]
-	}
+                "appID": "AWLA42VSV6.com.saqmobile.saq2",
+                "paths": ["*", "/"]
+            }
+        ]
+    }
 }
