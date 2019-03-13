@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "VYAXXUJJWF.com.saqmobile.saq2",
-                "paths": ["*", "/"]
+                "paths": ["*"]
             }
         ]
     }
