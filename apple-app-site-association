@@ -5,10 +5,6 @@
             {
                 "appID": "VYAXXUJJWF.com.saqmobile.saq2",
                 "paths": ["*", "/"]
-            },
-			{
-                "appID": "AWLA42VSV6.com.saqmobile.saq2",
-                "paths": ["*", "/"]
             }
         ]
     }
